@@ -40,8 +40,8 @@ body {
   transition: all linear 0.1s;
 }
 #cursor-blur {
-  height: 500px;
-  width: 500px;
+  height: 200px;
+  width: 200px;
   background-color:#446894;
   border-radius: 50%;
   position: fixed;
