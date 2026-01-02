@@ -42,7 +42,7 @@ body {
 #cursor-blur {
   height: 200px;
   width: 200px;
-  background-color:#446894;
+  background-color:#000000;
   border-radius: 50%;
   position: fixed;
   filter: blur(80px);
